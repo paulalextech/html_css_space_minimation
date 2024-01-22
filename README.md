@@ -1,3 +1,4 @@
 ### HTML & CSS SPACE ANIMATION
 
-[65db674d-c9ce-4312-b50a-847a56f83e77](https://html-css-space-minimation.netlify.app/)https://html-css-space-minimation.netlify.app/
+
+![Screenshot 2024-01-22 at 11 16 27](https://github.com/paulalextech/html_css_space_minimation/assets/113057265/fa9f8ffa-d733-467d-9ef3-a8196847a89d)
